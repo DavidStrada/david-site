@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "David Estrada - Software Developer"
+title = "David Estrada - FullStack Developer"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -10,7 +10,7 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "images/logo.svg"
     standard  = "images/logo.svg"
     alt = "Serif - A Hugo Business Theme"
 

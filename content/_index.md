@@ -1,11 +1,13 @@
 ---
 title: 'Home'
-intro_image: images/undraw_problem_solving_ft81.svg
+intro_image: images/homepage.svg
 intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for full control
 intro_image_hide_on_mobile: true
 ---
 
 # David Estrada
-## Software Developer
+## FullStack Developer
 
-### Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+### Full stack web developer from Guatemala specialized in Laravel, Statamic & Craft CMS
+
+### I've been learning and improving my skills for over a decadate.
