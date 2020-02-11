@@ -33,8 +33,8 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
+      name = "About"
+      url = "/about"
       weight = 2
 
   # Footer Menu

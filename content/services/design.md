@@ -9,4 +9,4 @@ draft: false
 weight: 100
 ---
 
-Logos, icons, and illustrations that enhance your brand identity and engage your audience.
+I can design a site from the ground-up, or if you already have a design, I can implement it in HTML and CSS.
