@@ -8,6 +8,7 @@ intro_image_hide_on_mobile: true
 # David Estrada
 ## FullStack Developer
 
+###  [**Laravel Certified Developer**](https://exam.laravelcert.com/is/Josue-David-Estrada-Aguilar/certified-since/2020-03-31 "Certification")
 ### Full stack web developer from Guatemala specialized in Laravel, Statamic & Craft CMS
 
 ### I've been learning and improving my skills for over a decadate.
