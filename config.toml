@@ -15,7 +15,7 @@ theme = "hugo-serif-theme"
     alt = "Serif - A Hugo Business Theme"
 
   [params.homepage_meta_tags]
-    meta_description = "Full stack web developer from Guatemala specialized in Laravel, Statamic & Craft CMS"
+    meta_description = "Full stack web developer from Guatemala specialized in Laravel, Statamic & Craft CMS, (Laravel Certified Developer)"
     meta_og_title = "David Estrada - Software Developer"
     meta_og_type = "website"
     meta_og_url = "https://davidstrada.com"
