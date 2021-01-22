@@ -16,7 +16,7 @@ Currently I'm working as a full-stack contract developer where I help different 
 - VUE.JS
 - TAILWINDCSS
 - AWS / DO / (Laravel Forge)
-- Statamic, Craft (junior level).
+- Statamic, Craft.
 
 ### AGE
 Old enough to enjoy a nice, cold cerveza 🍺.
