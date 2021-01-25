@@ -9,4 +9,4 @@ draft: false
 weight: 100
 ---
 
-Need an API for your mobile app or JavaScript SPA? I can help out with that.
+Need an API for your mobile app or SPA? I can do that!.
