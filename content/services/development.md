@@ -10,4 +10,4 @@ weight: 1
 ---
 I use modern PHP and Javascript frameworks like Laravel and Vue JS for web development.
 
-I've developed web applications based on modern web frameworks such as Laravel and Vue JS and actively contribute to their ecosystem with open source package(s).
+I've developed web applications based on modern web frameworks such as Laravel and Vue JS.
